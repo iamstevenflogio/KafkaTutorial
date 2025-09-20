@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/spark_tutorial_webpage.html"
+to = "/kafka_tutorial_webpage.html"
 status = 200
